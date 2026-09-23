@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="LaunchIt.csproj" />
+  <Project Path="LaunchItDemo/LaunchItDemo.csproj" Id="9acd6cce-0065-4684-bc1d-cb3caa606d04" />
 </Solution>
