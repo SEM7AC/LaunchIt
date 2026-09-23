@@ -10,6 +10,9 @@ internal class Program
 
         Console.WriteLine();
         Console.WriteLine($"You entered: {input}");
+
+        var StopProgram = new LaunchIt.Resolvers.KillResolver();
+
         }
     }
 

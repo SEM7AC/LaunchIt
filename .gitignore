@@ -168,5 +168,5 @@ Platforms/iOS/*.plist
 *.patch
 dev_notes.txt
 dev_notes/
-/LaunchIt.Tests/LaunchIt.Tests.csproj
-/LaunchIt.Tests/KillResolverTests.cs
+/LaunchIt.Tests/
+
